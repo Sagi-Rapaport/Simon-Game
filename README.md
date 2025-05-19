@@ -33,7 +33,9 @@ The game generates a sequence of LED flashes which the player must repeat using 
 | Component         | Purpose                             |
 
 | LEDs              | Show the generated sequence         |
+
 | Switches          | Used to repeat the pattern          |
+
 | 7-Segment Display | Show correct or incorrect response  |
 
 ## How It Works
