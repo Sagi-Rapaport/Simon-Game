@@ -30,13 +30,13 @@ The game generates a sequence of LED flashes which the player must repeat using 
 
 ## Controls
 
-| Component         | Purpose                             |
+| Component         <---> Purpose                             |
 
-| LEDs              | Show the generated sequence         |
+| LEDs              <---> Show the generated sequence         |
 
-| Switches          | Used to repeat the pattern          |
+| Switches          <---> Used to repeat the pattern          |
 
-| 7-Segment Display | Show correct or incorrect response  |
+| 7-Segment Display <---> Show correct or incorrect response  |
 
 ## How It Works
 
