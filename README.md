@@ -1,6 +1,7 @@
 # Simon Game on FPGA
 
 This project implements a classic **Simon Game** using Verilog for FPGA development. 
+
 The game generates a sequence of LED flashes which the player must repeat using switches. 
 
 ## Features
